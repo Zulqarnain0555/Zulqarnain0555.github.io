@@ -1,0 +1,7 @@
+Name: Zulqarnain
+Role: Computer Science Student
+Skills: C++,SQL,AI
+Email: zulqarnain@email.com
+About: I am passoinate about programming and web development.
+Projects: Portfolio Website, Student Management System 
+
